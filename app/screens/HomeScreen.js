@@ -18,7 +18,7 @@ import ShakeScreen from './ShakeScreen';
 import fakecall from './fakecall';
 import Modal from 'react-native-modal';
 import Button from '../components/button';
-const GOOGLE_MAP_APIKEY = "AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo"
+const GOOGLE_MAP_APIKEY = ""
 const data=[
     {
     id:"00",
@@ -49,7 +49,7 @@ const HomeScreen = () => {
       const handleSocialMediaShare = (socialMedia) => {
         switch (socialMedia) {
           case 'Facebook':
-            const phoneNumber = '+919026510031';
+            const phoneNumber = '';
       const message = 'https://maps.app.goo.gl/otBG9du9h1frPBxGA';
       const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
       Linking.openURL(url);
