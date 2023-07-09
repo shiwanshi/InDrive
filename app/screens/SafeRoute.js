@@ -14,7 +14,7 @@ const SafeRoute = () => {
                 console.error('Please enter both source and destination');
                 return;
             }
-            const apiKey = 'AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo';
+            const apiKey = '';
             const incidentCoordinates = incidentMarkers
                 .map((marker) => `${marker.latitude},${marker.longitude}`)
                 .join('|');
@@ -123,7 +123,7 @@ destination=${destination}&key=${apiKey}`
                 }}
                 fetchDetails={true}
                 query={{
-                    key: 'AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo',
+                    key: '',
                     language: 'en',
                 }}
                 styles={{
@@ -149,7 +149,7 @@ destination=${destination}&key=${apiKey}`
                 }}
                 fetchDetails={true}
                 query={{
-                    key: 'AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo',
+                    key: '',
                     language: 'en',
                 }}
                 styles={{
