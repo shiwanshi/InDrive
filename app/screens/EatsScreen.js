@@ -4,7 +4,7 @@ import MapView, { Marker, Polyline } from 'react-native-maps';
 import { decode } from '@mapbox/polyline';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 
-const GOOGLE_MAPS_APIKEY = 'AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo'; // Replace with your Google Maps API key
+const GOOGLE_MAPS_APIKEY = ''; // Replace with your Google Maps API key
 const RADIUS = 1000; // Radius in meters to search for nearby places
 
 const EatsScreen = () => {
