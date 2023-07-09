@@ -40,10 +40,9 @@ Book Baby seats for kids of various age groups to ensure ride safety. They can a
 Female drivers can be requested during late-night travel
 Live-location sharing, if opted, shares location link to emergency contacts (Message and WhatsApp support)
 # Fake Call: 
-If the woman traveler senses danger she can pretend to be talking on call so that she psychologically tricks the nearby people into believing that she is being tracked.
+If the woman traveler senses danger, she can pretend to be talking on a call so that she psychologically tricks the nearby people into believing that she is being tracked.
 
-
-https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e
+<img src="https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e" width="300">
 
 
 # Shake for "Help" (SOS):
