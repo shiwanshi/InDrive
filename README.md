@@ -53,7 +53,10 @@ When in danger, the passenger(if mute or unable to speak in fear) can shake her 
 https://github.com/shiwanshi/InDrive/assets/86202536/f90a2b96-a817-45a2-9236-5b1c9e1981d3
 
 
-Nearby Help: For any emergency, passengers can find nearby police stations, pharmacies, and hospitals.
+# Nearby Help:
+For any emergency, passengers can find nearby police stations, pharmacies, and hospitals.
+![WhatsApp Image 2023-07-10 at 1 57 41 AM](https://github.com/shiwanshi/InDrive/assets/86202536/2cc38ff0-0729-47d8-8da3-53ce6ac4afd5)
+
 Verifying driver's background and license before taking rides.
 
 
