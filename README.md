@@ -43,6 +43,8 @@ Live-location sharing, if opted, shares location link to emergency contacts (Mes
 If the woman traveler senses danger, she can pretend to be talking on a call so that she psychologically tricks the nearby people into believing that she is being tracked.
 
 
+https://github.com/shiwanshi/InDrive/assets/86202536/bc8ea18a-7d18-4a39-8355-0f41bee97f14
+
 
 
 # Shake for "Help" (SOS):
