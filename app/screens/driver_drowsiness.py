@@ -5,9 +5,9 @@ import dlib
 from imutils import face_utils
 
 # Set environment variables for your Twilio credentials
-account_sid = "ACf3a70e1d0a0870d4b49ffa93761d709e"
-auth_token = "a1596ae578c23446c8893216b602d498"
-twilio_phone_number = "+14176145194"  # Your Twilio phone number
+account_sid = ""
+auth_token = ""
+twilio_phone_number = ""  # Your Twilio phone number
 
 # Initialize the Twilio client
 client = Client(account_sid, auth_token)
