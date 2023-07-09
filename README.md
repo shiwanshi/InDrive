@@ -20,6 +20,12 @@ Prevention and Control are the basics that we have incorporated into our solutio
 # Sleep Detection
 Travel fatigue is real. To combat this, we provide a camera-enabled Sleep Detection system that can be enabled simply on the Driver's Phone. It alerts the Driver & passenger if the driver is "Drowsy" or "Sleeping" during a ride. A "Buzz Call" is automatically sent to wake up the driver.
 
+
+https://github.com/shiwanshi/InDrive/assets/86202536/46f62c64-9dbc-4052-9078-1c3bc06e2a5a
+
+
+
+
 # Safe Routes
 Accident-prone routes lead to jammed ways causing unexpected delays. To the rescue, we present "Safe Routes" that can display Accident-prone areas and suggest alternate routes and a platform to report them with proof. This would not only help travelers and drivers avoid accidents but also complete rides faster.
 
@@ -38,7 +44,5 @@ Shake for "Help" (SOS): When in danger, the passenger(if mute or unable to speak
 Nearby Help: For any emergency, passengers can find nearby police stations, pharmacies, and hospitals.
 Verifying driver's background and license before taking rides.
 
-
-https://github.com/shiwanshi/InDrive/assets/86202536/7635455e-87ef-434a-b93e-47de4427c5be
 
 
