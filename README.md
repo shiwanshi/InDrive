@@ -42,14 +42,14 @@ Live-location sharing, if opted, shares location link to emergency contacts (Mes
 # Fake Call: 
 If the woman traveler senses danger, she can pretend to be talking on a call so that she psychologically tricks the nearby people into believing that she is being tracked.
 
-<img src="https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e" width="50">
+
 
 
 # Shake for "Help" (SOS):
 When in danger, the passenger(if mute or unable to speak in fear) can shake her device violently for 5 seconds. This sends an SMS to the emergency contacts with their live-location link.
 
 
-https://github.com/shiwanshi/InDrive/assets/86202536/f90a2b96-a817-45a2-9236-5b1c9e1981d3
+<img src="https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e" width="100">
 
 
 # Nearby Help:
