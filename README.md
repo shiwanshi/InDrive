@@ -37,3 +37,8 @@ Fake Call: If the woman traveler senses danger she can pretend to be talking on 
 Shake for "Help" (SOS): When in danger, the passenger(if mute or unable to speak in fear) can shake her device violently for 5 seconds. This sends an SMS to the emergency contacts with their live-location link.
 Nearby Help: For any emergency, passengers can find nearby police stations, pharmacies, and hospitals.
 Verifying driver's background and license before taking rides.
+
+
+https://github.com/shiwanshi/InDrive/assets/86202536/7635455e-87ef-434a-b93e-47de4427c5be
+
+
