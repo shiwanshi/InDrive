@@ -16,10 +16,10 @@ subscription.remove();
 }, []);
 const handleShake = async () => {
 try {
-const SERVICE_PLAN_ID = '27d0b054016f439893522247a31fd564';
-const API_TOKEN = 'f7098978621d4f0d83543fde9629bf77';
-const SINCH_NUMBER = '+447520662015';
-const TO_NUMBER = ['+918840033510','+919026510031']; 
+const SERVICE_PLAN_ID = '';
+const API_TOKEN = '';
+const SINCH_NUMBER = '';
+const TO_NUMBER = ['','']; 
 const url =
 `https://us.sms.api.sinch.com/xms/v1/${SERVICE_PLAN_ID}/batches`;
 const headers = {
