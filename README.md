@@ -42,7 +42,7 @@ Live-location sharing, if opted, shares location link to emergency contacts (Mes
 # Fake Call: 
 If the woman traveler senses danger, she can pretend to be talking on a call so that she psychologically tricks the nearby people into believing that she is being tracked.
 
-<img src="https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e" width="300">
+<img src="https://github.com/shiwanshi/InDrive/assets/86202536/83204b22-6076-4c75-913b-8106ee40567e" width="50">
 
 
 # Shake for "Help" (SOS):
