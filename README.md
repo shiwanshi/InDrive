@@ -29,6 +29,11 @@ https://github.com/shiwanshi/InDrive/assets/86202536/46f62c64-9dbc-4052-9078-1c3
 # Safe Routes
 Accident-prone routes lead to jammed ways causing unexpected delays. To the rescue, we present "Safe Routes" that can display Accident-prone areas and suggest alternate routes and a platform to report them with proof. This would not only help travelers and drivers avoid accidents but also complete rides faster.
 
+
+https://github.com/shiwanshi/InDrive/assets/86202536/f033ae81-0b16-4234-add3-8c710831293f
+
+
+
 # Help Forum
 A networking platform for drivers to check if passengers have been flagged for "Misbehavior" before accepting the ride or report a passenger's misconduct. Some DIY tutorials are also incorporated on the platform to empower and educate drivers to handle emergency situations.
 
